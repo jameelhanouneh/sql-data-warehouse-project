@@ -6,7 +6,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 ## 🏗️ Data Warehouse Architecture Overview
 
-<img width="992" height="561" alt="Data Architecture" src="https://github.com/user-attachments/assets/319f7e22-46e5-41d3-9c1e-a9fbe69a54b4" />
+<img width="992" height="564" alt="Data Architecture" src="https://github.com/user-attachments/assets/5b11e132-5305-4e1c-9bad-246ec32297a6" />
 This project follows a Medallion Architecture (Bronze → Silver → Gold) to transform raw source data into analytics-ready datasets for reporting and advanced analysis.
 
 ### 🔹 Data Sources
